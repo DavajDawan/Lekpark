@@ -1,0 +1,11 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F1EFEA" />
+  <g fill="none" stroke="#3D6E91" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    
+    <rect x="170" y="50" width="70" height="22" rx="4" />
+    <path d="M205 72 C 130 80, 110 130, 165 155 C 235 185, 260 130, 205 115 C 165 105, 155 140, 190 155" />
+    <line x1="190" y1="155" x2="150" y2="235" />
+    <line x1="60" y1="240" x2="340" y2="240" />
+  
+  </g>
+</svg>
