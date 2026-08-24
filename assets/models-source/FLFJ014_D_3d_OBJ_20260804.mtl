@@ -1,0 +1,262 @@
+#
+# Bunkspeed OBJ Material File
+# http://www.bunkspeed.com
+#
+
+newmtl Bezs_RAL7006
+Kd 0.7254902 0.6588235 0.5960785
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Antracit_RAL7016
+Kd 0.2039216 0.2196078 0.2313726
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Narancs_RAL2003
+Kd 1 0.4 0
+Ks 0.5 0.5 0.5
+norm C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\PlasticPolystyrene_normalmap.dds
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.97527
+
+newmtl Narancs_RAL2003
+Kd 1 0.4 0
+Ks 0.5 0.5 0.5
+norm C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\PlasticPolystyrene_normalmap.dds
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.97527
+
+newmtl szurke_HDPE_CSM_felsoreteg
+Kd 0.4 0.4 0.4
+Ks 0.5 0.5 0.5
+norm C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\plasticmt11010_normalmap.dds
+pr 0
+pm 0
+d 0
+illum 2
+Ns 2.485681
+
+newmtl carbon_steel
+Kd 0.7764706 0.7568628 0.7372549
+Ks 0.7764706 0.7568628 0.7372549
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Korrugalt_Cso_Kulso
+Kd 0 0.7529412 0.7529412
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 1.801619
+
+newmtl Korrugalt_Cso_Belso
+Kd 0.1019608 0.1019608 0.1019608
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 1.801619
+
+newmtl Pisztacia_HDPE_138
+Kd 0.6588235 0.7529412 0
+Ks 0 0 0
+pr 0
+pm 0
+d 0
+illum 2
+Ns 2.087912
+
+newmtl Rozsdamentes_fenyes_3
+Kd 0.945098 0.9372549 0.9176471
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+
+newmtl Tortfeher_HDPE_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Tortfeher_HDPE_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Tortfeher_HDPE_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Sarga_HDPE_448
+Kd 0.8941177 0.572549 0.1254902
+Ks 0.5 0.5 0.5
+map_bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Sarga_HDPE_448
+Kd 0.8941177 0.572549 0.1254902
+Ks 0.5 0.5 0.5
+map_bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Tortfeher_HDPE_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Narancs_RAL2003
+Kd 1 0.4 0
+Ks 0.5 0.5 0.5
+norm C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\PlasticPolystyrene_normalmap.dds
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.97527
+
+newmtl Sarga_HDPE_448
+Kd 0.8941177 0.572549 0.1254902
+Ks 0.5 0.5 0.5
+map_bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Tortfeher_HDPE_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Sarga_HDPE_448
+Kd 0.8941177 0.572549 0.1254902
+Ks 0.5 0.5 0.5
+map_bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Sarga_HDPE_448
+Kd 0.8941177 0.572549 0.1254902
+Ks 0.5 0.5 0.5
+map_bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Tortfeher_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Tortfeher_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Sarga_HDPE_448
+Kd 0.8941177 0.572549 0.1254902
+Ks 0.5 0.5 0.5
+map_bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+bump C:\Users\zalatnai.gergo\Faberland Kft\02_TERVEZÉS - Dokumentumok\2_04 Műszaki dokumentáció\Teljes_dokumentacio\FLFJ014_Eco_kettornyu_1200_DOC\FLFJ014_Eco_kett_jvar_1200_3D\FLFJ014_D_3d_OBJ_20260804\Carpet Specular.jpg
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Tortfeher_HDPE_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
+
+newmtl Korrugalt_Cso_Belso
+Kd 0.1019608 0.1019608 0.1019608
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 1.801619
+
+newmtl Tortfeher_114
+Kd 0.9294118 0.9215686 0.854902
+Ks 0.5 0.5 0.5
+pr 0
+pm 0
+d 0
+illum 2
+Ns 99.90109
